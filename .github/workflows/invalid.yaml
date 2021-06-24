@@ -2,7 +2,7 @@ namee: invalid-field
 on:
   push:
     branches:
-      - main
+      - !main
 jobs:
   lint:
     runs-on: ubuntu-20.04
