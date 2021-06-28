@@ -1,4 +1,4 @@
-name: invalid-field
+name: valid
 on:
   push:
     branches:
